@@ -4,7 +4,7 @@
 - :rocket: Aspiring Full Stack Developer
 - :computer: Competitive Programmer
 
-Programming Languages
+#### Programming Languages
 | Typescript |:heart::heart::heart:|
 |------------|---------------------|
 | Javascript |:star::star::star:   |
